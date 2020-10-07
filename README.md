@@ -1,4 +1,11 @@
-# screenshot
+# Previous Work
+[My Portfolio](https://5f274333bc72d802a94fb279--priceless-chandrasekhar-e408e4.netlify.app/)
+[Imdb-reactjs](https://github.com/tanujvyas10/IMDB-reactjs)
+[Airbnb-reactjs](https://github.com/tanujvyas10/Reactjs-AirBNB)
+[Covid_Tracker](https://github.com/tanujvyas10/Covid-19-Tracker)
+[Amberstudent](https://github.com/tanujvyas10/amberstudent)
+
+
 
 ![image](https://user-images.githubusercontent.com/48439116/94777086-7e36a480-03e0-11eb-9181-1535493bc2a0.png)
 ![image](https://user-images.githubusercontent.com/48439116/94777119-8abafd00-03e0-11eb-85d3-f6dbfd47fd33.png)
